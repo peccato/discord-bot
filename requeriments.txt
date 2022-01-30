@@ -1,0 +1,5 @@
+cogwatch
+discord.py
+requests
+discord_webhook
+riotwatcher
