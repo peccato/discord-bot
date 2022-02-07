@@ -17,7 +17,7 @@ python main.py
 o bot ja vem com os seguintes comandos:<br/>
 . `say`  faz o bot falar oque foi escrito apos o comando.
 <br/>
-. `say` comando para diversao , mencionando duas pessoas junto com o comando aparece uma porcentagem aleatoria de afinidade.
+. `ship` comando para diversao , mencionando duas pessoas junto com o comando aparece uma porcentagem aleatoria de afinidade.
 <br/>
 . `editplay` edita a atividade atual do bot na lista de usuarios.
 <br/>
